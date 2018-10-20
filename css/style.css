@@ -1,0 +1,35 @@
+body{
+    background-image: url('../images/Code_data1.jpg');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    background-repeat: no-repeat;
+    height: 625px;
+}
+.welcoming{
+    text-align: center;
+    color: #fff;
+    padding-top: 15%;
+    
+}
+.welcoming h1{
+    font-size: 60px;
+}
+.welcoming h2{
+    padding-top: 30px;
+    font-size: 20px;
+}
+a{
+    margin-top: 45px;
+}
+.btn-success{
+    background-color: rgba(0, 0, 0, 0.301);
+    border-width: 2px;
+}
+@media screen and (max-width:600px)
+{
+    .welcoming h1{
+        font-size: 30px;
+    }
+}

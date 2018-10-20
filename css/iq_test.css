@@ -1,0 +1,61 @@
+body{
+    background-image: url('../images/Code_data1.jpg');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    background-repeat: no-repeat;
+    height: 625px;
+}
+.welcoming{
+    text-align: center;
+    color: #fff;
+    padding:20px;
+    position: absolute;
+    z-index: 3;
+    background-color: rgba(0, 0, 0, 0.651);
+    margin-top: 70px;
+    border-color:skyblue;
+    border-width: 2px;
+    border-radius: 25px;
+    padding-right: -150px;
+    
+
+}
+@media (min-width: 992px)
+{
+    .col-md-12 {
+        width: 85%;
+    }
+}
+@media (min-width: 892px)
+{
+    .col-md-12 {
+        width: 85%;
+    }
+}
+
+.welcoming h1{
+    font-size: 30px;
+    padding-top: 50px;
+}
+a{
+    margin-top: 45px;
+}
+.btn-primary{
+    background-color: rgba(0, 0, 0, 0.301);
+    border-width: 2px;
+    
+}
+#inp{
+    width: 58%;
+   display: block;
+   margin-top: 50px;
+   margin-left: 100px;
+   height: 40px;
+   border-radius: 20px;
+   border-color: lightseagreen;
+   text-align: center;
+   font-size: 30px;
+   color: green;
+}

@@ -1,0 +1,71 @@
+
+body{
+	background-image: url(creative-tree-wallpaper-50650-52342-hd-wallpapers.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+hr{
+	color: blue;
+}
+h1{
+	font-family:Vladimir Script;
+	color:azure;
+	text-align: center;
+	margin-bottom: 50px;
+	font-size: 55px;
+	text-shadow: 1px 1px 1px darkblue;
+	transition-duration: 1s;
+}
+.form{
+    margin-left: 25%;
+	width: 50%;
+	height: 150%;
+	background-color: none;
+	box-shadow: 6px 6px 6px #0099FF;
+	border-radius: 5px;
+	border: solid;
+	border-color: #0099FF;
+	border-width: 2px;
+}
+.input{
+	border-radius: 5px;
+	width: 300px;
+	height: 50px;
+	margin-left: 30px;
+}
+h3{
+	margin-left: 30px;
+	font-family:cursive;
+	color:aliceblue;
+	margin-top: 10px;
+	font-size: 20px;
+	text-shadow: 1px 1px 1px darkblue;
+
+}
+.box{
+	margin-top: 10%;
+}
+.input2{
+	width: 90px;
+	height: 20px;
+	margin-left: 10px;
+}
+h4{
+
+	font-family:cursive;
+	color: #000066;
+	font-size: 18px;
+	margin-left: 30px;
+
+
+}
+h5{
+	font-family:cursive;
+	color: #484848;
+	font-size: 15px;
+	margin-left: 80%;
+	margin-top: -40px;
+
+
+}
